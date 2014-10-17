@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ncu:home|Door43 (ncu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ncu|d43-ncu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ncu/archive/master.zip|d43-ncu.zip]]
+
+**Recent Changes**
+{{changes>ns = ncu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ncu|Ethnologue data]]
+
